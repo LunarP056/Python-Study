@@ -1,3 +1,5 @@
+#Exercício de Prática 10/10/2024
+
 print("Conversor de Decimal para Binário\n")
 valor = input("Digite o número que você deseja converter para decimal:\n")
 tamanho = len(str(valor)) #Arquiva o número de algarismos
